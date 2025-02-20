@@ -454,56 +454,6 @@
     font-size: 14px;
     color:#000000;
      font-family:Poppins;
-        font-style: normal;
-   
-}       
-    #section8 h1 , #section8 h1 a{
-    font-size: 60px;
-    color:#000000;
-    font-family:Poppins;
-        font-style: normal;
-   
-} 
-#section8 h2 , #section8 h2 a{
-
-    font-size: 50px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section8 h3, #section8 h3 a{
-    font-size: 40px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section8 h4, #section8 h4 a{
-    font-size: 30px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}   
-#section8 h5 , #section8 h5 a{
-    font-size: 20px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section8 h6 , #section8 h6 a{
-    font-size: 18px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section8 p{
-    font-size: 14px;
-    color:#000000;
-     font-family:Poppins;
         font-weight: bold;
    
 }       
@@ -526,14 +476,14 @@
             font-family: Poppins; 
             box-shadow: ;
             
-            padding-left:0px;
-            padding-right:30px;
+            padding-left:30px;
+            padding-right:0px;
              
         ">
             <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
-                <div style="height:px; width:px;"><img src="image.php?name=jasonlogos.png&id=2108028026675fd067ef6f30.75398433" alt="Logo" style="height:150px;width:280px"></div>
+                <div style="height:px; width:px;"><img src="image.php?name=jasonlogos.png&id=2108028026675fd067ef6f30.75398433" alt="Logo" style="height:120px;width:280px"></div>
                 <div class="links ml-4" style="display: flex; flex: 1; justify-content: center; align-items: center;">
-                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href=".html" style="color: #000000; margin-right: 40px;">Services</a>
+                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href=".html" style="color: #000000; margin-right: 40px;">Services</a><a href=".html" style="color: #000000; margin-right: 40px;">Pricing</a>
                 </div>
             </div>
         </nav>
